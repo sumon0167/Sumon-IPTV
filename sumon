@@ -97,3 +97,59 @@ https://stream.mux.com/e8ustDL8hTiGTkCkE9JLpdJ5uCMcokzn.m3u8
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTM3U
+#EXTINF:-1 group-title="ভারতীয় বাংলা" tvg-logo="https://i.imgur.com/09phOKV.jpg",Colors Bangla
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3415.m3u8
+#EXTINF:-1 group-title="ভারতীয় বাংলা" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png/revision/latest?cb=20210423103549",Khushbo Bangla
+http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
+#EXTINF:-1 group-title="ভারতীয় বাংলা" tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png",Sony Aath
+http://last.gcdn.co/IND395/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ভারতীয় বাংলা" tvg-logo="https://i.imgur.com/D6jGMpw.jpg",Star Jalsha HD
+https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ভারতীয় বাংলা" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Colors_Bangla_HD_TV_white.png",Colors Bangla HD
+https://last.gcdn.co/IND393/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ভারতীয় বাংলা" tvg-logo="https://images-vod.wixmp.com/ceb800c0-c2cc-4726-8014-162eec7e4e04/images/e22df72ff92643f6890df7a483359eac~mv2/v1/fill/w_330,h_330/file.png",Orange Bangla
+https://orangedigital.livebox.co.in:443/Orangebanglahls/Orangebangla.m3u8
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTM3U
+#EXTINF:-1 group-title="রেডিও",Bangladesh Betar Chattogram
+http://as2.digitalsynapsebd.com:9236/;stream.mp3
+#EXTINF:-1 group-title="রেডিও",Bangladesh Betar Khulna
+http://as2.digitalsynapsebd.com:9252/;stream.mp3
+#EXTINF:-1 group-title="রেডিও",রেডিও Goongoon
+http://live.রেডিওgoongoon.com:8888/stream/1/
+#EXTINF:-1 group-title="রেডিও",রেডিও Today(89.6)
+http://node-03.zeno.fm/0zha3rfq02quv?@IPTVSolution
+#EXTINF:-1 group-title="রেডিও",ABC রেডিও(89.2)
+http://node-04.zeno.fm/h7n8ug96eeruv?@IPTVSolution
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+#EXTM3U
+#EXTINF:-1 group-title="Music" tvg-logo="https://n7.nextpng.com/sticker-png/58/527/sticker-png-pakistan-8xm-television-channel-streaming-media-non-stop-miscellaneous-television-text-logo.png",8XM
+http://iptv.kitv.live:1935/live/Shari/MTV-P/72.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/220px-MTV_Logo_2010.svg.png",MTV
+http://iptv.kitv.live:1935/live/Shari/MTV-P/75.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2015/05/22/9x%20jalwa.jpg",9X Jalwa
+http://iptv.kitv.live:1935/live/Shari/MTV-P/76.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.the-ba-group.com/wp-content/uploads/2018/03/b4u-music-logo.png",B4U Music
+http://iptv.kitv.live:1935/live/Shari/MTV-P/79.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png",Music India
+http://iptv.kitv.live:1935/live/Shari/MTV-P/84.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/udp1a1b.png",MTV Hits
+http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
+#EXTINF:-1 group-title="Music" tvg-logo="https://exchange4media.gumlet.io/news-photo/101183-ilove.jpg",WoW Music
+https://ilove.livebox.co.in/wowinhls/live.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/DJhTTmR.png",Music India
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2017/04/9X-jhakaas-logo.jpg",9X Jhakaas
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in_480p/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.iwmbuzz.com/wp-content/uploads/2019/08/are-you-huge-music-aficionado-give-9xm-soundcaste-podcast-list.jpg",9XM
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://bit.ly/2Y9KTc8",9xM
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
