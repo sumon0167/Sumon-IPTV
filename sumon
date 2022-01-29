@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="TESTING" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Sony_six_logo.png",SONY SIX
+https://edge4.bioscopelive.com/hls/anonymous/kcrTTI72MvSJSrn3_PnRrA/1643493983/live-sony-six_mid/index.m3u8
+
+
 #EXTINF:-1 group-title="বাংলা IPTV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-cnn-bangla-tv-9082.jpg",CNN Bangla
 http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 #EXTINF:-1 group-title="বাংলা IPTV" tvg-logo="https://aamarbanglachannel.in/wp-content/uploads/2021/07/Aamar-Bangla-Logo.jpg",Amar Bangla
